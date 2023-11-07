@@ -23,7 +23,7 @@ This project is used by the following companies:
 ## Demo
 
 
-[https://hamed-babaei.github.io/NFT-Shop-Project/](https://hamed-babaei.github.io/Zarinpal-Project/)https://hamed-babaei.github.io/Zarinpal-Project/
+https://hamed-babaei.github.io/Zarinpal-Project/
 ## 🚀 About Me
 I'm a Frontend developer...
 
